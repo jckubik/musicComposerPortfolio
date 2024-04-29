@@ -1,0 +1,5 @@
+.footer-container {
+  background: var(--primary-color);
+  height: 5em;
+  color: white;
+}

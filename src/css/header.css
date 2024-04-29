@@ -1,0 +1,19 @@
+.header-container {
+  background: var(--primary-color);
+  width: 100%;
+}
+
+.header-link:hover {
+  color: var(--accent-color);
+}
+
+.header-link {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Exo 2", sans-serif;
+}
+
+img {
+  margin: -2em;
+}

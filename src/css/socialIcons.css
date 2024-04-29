@@ -1,0 +1,11 @@
+.social-icon-color-white {
+  color: white;
+}
+
+.social-icon-color-black {
+  color: black;
+}
+
+.social-icon-color-white:hover {
+  color: var(--accent-color);
+}

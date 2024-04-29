@@ -1,0 +1,8 @@
+h3 {
+  color: black;
+  font-family: "Exo 2", sans-serif;
+}
+
+#credits-container {
+  background-color: var(--page-color);
+}
