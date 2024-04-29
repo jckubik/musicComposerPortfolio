@@ -3,7 +3,6 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import SocialIcons from './SocialIcons';
 import '../css/contact.css';
-import horizontalLogo from '../media/horizontalLogoNoBackground.svg';
 import verticalLogo from '../media/uprightLogoNoBackground.svg';
 
 const Contact = () => {
