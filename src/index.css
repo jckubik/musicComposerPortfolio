@@ -1,9 +1,8 @@
 :root {
   --primary-color: #9e68e3;
   --secondary-color: #6041C2;
-  /* --accent-color: #2ec4fb; */
   --accent-color: #3647D8;
-  --page-color: #b9acff
+  --page-color: rgba(185, 172, 255, .5)
 }
 
 body {

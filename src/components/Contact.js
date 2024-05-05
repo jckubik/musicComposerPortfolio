@@ -24,7 +24,7 @@ const Contact = () => {
               <label className='m-1 align-self-center'>Email:</label>
             </Col>
             <Col md={4} className='align-content-center'>
-              <a className='m-1 text-white' href='mailto:dhcomposemusic@gmail.com'>dhcomposemusic@gmail.com</a>
+              <a className='m-1 text-black' href='mailto:dhcomposemusic@gmail.com'>dhcomposemusic@gmail.com</a>
             </Col>
           </Row>
           <Row>
@@ -32,7 +32,7 @@ const Contact = () => {
               <label className='m-1 align-self-center'>Social:</label>
             </Col>
             <Col md={10} className='align-content-center'>
-              <SocialIcons iconColorClassName={"social-icon-color-white"} />
+              <SocialIcons iconColorClassName={"social-icon-color-black"} />
             </Col>
           </Row>
         </Col>

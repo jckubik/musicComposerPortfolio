@@ -25,19 +25,19 @@ const Header = () => {
               activeKey={"/home"}
             >
               <Nav.Item>
-                <Nav.Link className='header-link' href="/home">Home</Nav.Link>
+                <Nav.Link className='header-link' href='#topImage-container'>Home</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link className='header-link' eventKey="portfolio">Portfolio</Nav.Link>
+                <Nav.Link className='header-link' href='#portfolio-container' eventKey="portfolio">Portfolio</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link className='header-link' eventKey="credits">Credits</Nav.Link>
+                <Nav.Link className='header-link' href='#credits-container' eventKey="credits">Credits</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link className='header-link' eventKey="about">About</Nav.Link>
+                <Nav.Link className='header-link' href='#about-container' eventKey="about">About</Nav.Link>
               </Nav.Item>
               <Nav.Item>
-                <Nav.Link className='header-link' eventKey="contact">Contact</Nav.Link>
+                <Nav.Link className='header-link' href='#contact-container' eventKey="contact">Contact</Nav.Link>
               </Nav.Item>
             </Nav>
           </Col>

@@ -1,7 +1,7 @@
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faYoutube, faInstagram } from '@fortawesome/free-brands-svg-icons';
+import { faYoutube, faInstagram, faSoundcloud } from '@fortawesome/free-brands-svg-icons';
 import '../css/socialIcons.css'
 
 const SocialIcons = ({ iconColorClassName, iconHoverColor }) => {
@@ -10,13 +10,18 @@ const SocialIcons = ({ iconColorClassName, iconHoverColor }) => {
     <Col md={2} className='icon-container align-content-center'>
       <Row>
         <Col md={4}>
-          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://youtube.com">
+          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://www.youtube.com/@thedahmusicstudio29">
             <FontAwesomeIcon icon={faYoutube} size='xl' />
           </a>
         </Col>
         <Col md={4}>
-          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://youtube.com">
+          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://www.instagram.com/musicby_dah/">
             <FontAwesomeIcon icon={faInstagram} size='xl' />
+          </a>
+        </Col>
+        <Col md={4}>
+          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://youtube.com">
+            <FontAwesomeIcon icon={faSoundcloud} size='xl' />
           </a>
         </Col>
       </Row>

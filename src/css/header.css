@@ -14,6 +14,10 @@
   font-family: "Exo 2", sans-serif;
 }
 
+a {
+  cursor: pointer;
+}
+
 img {
   margin: -2em;
 }
