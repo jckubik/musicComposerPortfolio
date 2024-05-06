@@ -20,7 +20,7 @@ const SocialIcons = ({ iconColorClassName, iconHoverColor }) => {
           </a>
         </Col>
         <Col md={4}>
-          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://youtube.com">
+          <a className={`${iconColorClassName} ${iconHoverColor}`} href ="https://soundcloud.com/dahmusicstudio?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
             <FontAwesomeIcon icon={faSoundcloud} size='xl' />
           </a>
         </Col>
