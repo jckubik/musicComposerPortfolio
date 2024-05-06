@@ -17,7 +17,7 @@ const Credits = () => {
           <table className='table table-striped table-sm'>
             <tbody>
               <tr>
-                <td>Sword of Atlas</td>
+                <td>Sword of Atlas (2022)</td>
                 <td>Platform: Steam</td>
               </tr>
             </tbody>
@@ -35,17 +35,17 @@ const Credits = () => {
           <table className='table table-striped table-sm'>
             <tbody>
               <tr>
-                <td>Impasse</td>
+                <td>Impasse (2023)</td>
                 <td>Co-Composer</td>
                 <td>Director: Emily Doran</td>
               </tr>
               <tr>
-                <td>Hail Mary</td>
+                <td>Hail Mary (2024)</td>
                 <td>Composer</td>
                 <td>Director: Caleb Jordan</td>
               </tr>
               <tr>
-                <td>Applecaplyse</td>
+                <td>Applecaplyse (2024)</td>
                 <td>Co-Composer</td>
                 <td>Director: Minh Ngo</td>
               </tr>
@@ -63,7 +63,7 @@ const Credits = () => {
           <table className='table table-striped table-sm'>
             <tbody>
               <tr>
-                <td>Starting Over</td>
+                <td>Starting Over (2024)</td>
                 <td>Co-Composer</td>
                 <td>Director: Yuanzhe Zhu</td>
               </tr>
