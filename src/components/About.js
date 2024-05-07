@@ -8,7 +8,7 @@ const About = () => {
 
   return (
     <>
-    <Container id="about-container" className='p-3 background-image'> 
+    <Container id="about-container" className='background-image'> 
       <Row>
         <Col md={5} className='background-about-image'>
         </Col>
